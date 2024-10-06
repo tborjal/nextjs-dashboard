@@ -5,10 +5,11 @@ const nextConfig = {
       ppr: 'incremental',
     },
   };
-  module.exports = {
+  /* module.exports = {
     eslint: {
       ignoreDuringBuilds: true, // This will ignore ESLint errors during the build
     },
     // other configurations can go here...
   };
+  */ 
   export default nextConfig;
